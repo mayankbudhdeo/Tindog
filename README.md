@@ -1,1 +1,5 @@
-TinDog Starting Files
+![image](https://user-images.githubusercontent.com/85788468/156032522-d43b0454-4e5b-4d94-9198-8496a2651d06.png)
+![image](https://user-images.githubusercontent.com/85788468/156032610-2e73fb0d-5ec9-4d7e-ae42-ff994f6cbda8.png)
+![image](https://user-images.githubusercontent.com/85788468/156032698-7407fd41-6b2b-4316-b91f-f548d4d9b189.png)
+![image](https://user-images.githubusercontent.com/85788468/156032763-4d338097-3be0-4f4d-aad6-e21dabc2603e.png)
+![image](https://user-images.githubusercontent.com/85788468/156032930-5e6193cb-f357-4f59-b49a-61eeecae975a.png)
